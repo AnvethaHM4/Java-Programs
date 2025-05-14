@@ -1,18 +1,19 @@
-[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.png)
+#Java Program
+**program1 output**(https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.png)
 
 [program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.1.png)
 
 [ArrayList1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.2.png)
 
-[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.3.png)
+[ArrayList2 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.3.png)
 
-[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.4.png)
+[ArrayList3 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.4.png)
 
-[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.5.png)
+[ArrayList4 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.5.png)
 
-[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.6.png)
+[ArrayList5 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.6.png)
 
-[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.7.png)
+[LinkedList1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.7.png)
 
 [program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.8.png)
 
