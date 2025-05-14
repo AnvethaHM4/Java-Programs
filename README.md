@@ -4,24 +4,28 @@
 
 [program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.1.png)
 
-[ArrayList1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.2.png)
+# ArrayList
 
-[ArrayList2 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.3.png)
+**ArrayList1 output**(https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.2.png)
 
-[ArrayList3 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.4.png)
+**ArrayList2 output**(https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.3.png)
 
-[ArrayList4 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.5.png)
+**ArrayList3 output**(https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.4.png)
 
-[ArrayList5 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.6.png)
+**ArrayList4 output**(https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.5.png)
 
-[LinkedList1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.7.png)
+**ArrayList5 output**(https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.6.png)
 
-[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.8.png)
+# LinkedList
 
-[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.9.png)
+**LinkedList1 output**(https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.7.png)
 
-[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.10.png)
+**LinkedList2 output**(https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.8.png)
 
-[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.11.png)
+**LinkedList3 output**(https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.9.png)
+
+**LinkedList4 output**(https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.10.png)
+
+**LinkedList5 output**(https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.11.png)
 
 
