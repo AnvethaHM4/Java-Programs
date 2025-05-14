@@ -12,4 +12,14 @@
 
 [program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.6.png)
 
+[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.7.png)
+
+[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.8.png)
+
+[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.9.png)
+
+[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.10.png)
+
+[program1 output](https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.11.png)
+
 
