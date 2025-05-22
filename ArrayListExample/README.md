@@ -1,6 +1,6 @@
 # ArrayList
 
-**ArrayList1 output**(https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.2.png)
+**ArrayList1 output**->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/ArrayListExample/program1.2.png)
 
 **ArrayList2 output**(https://github.com/AnvethaHM4/Java-Programs/blob/main/program1.3.png)
 
