@@ -32,6 +32,17 @@ ArrayList And LinkedList program1->[Link](https://github.com/AnvethaHM4/Java-Pro
 #
 HashSet, TreeSet and LinkedHashSet->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/2_HashSet,%20TreeSet%20and%20LinkedHashSet/p2.png)
 
+#
+Hashmap1->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/HashmapExample/h1.png)
+
+Hashmap1->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/HashmapExample/h2.png)
+
+Hashmap1->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/HashmapExample/h3.png)
+
+Hashmap1->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/HashmapExample/h3.png)
+
+#
+
 
 
 
