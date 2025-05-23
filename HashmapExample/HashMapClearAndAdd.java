@@ -2,7 +2,7 @@
 //(1,”Banana”), (2,”Orange”), (3,”Guava”), (4,”Pomegranate ”), (5,”Amla”) [ Hint : clear() , size() and put()]
 import java.util.HashMap;
 import java.util.Map;
-public class P2 {
+public class HashMapClearAndAdd {
 	public static void main(String[] args) {
 		Map< Integer,String> hashMap = new HashMap<>();
 		// 1. Basic Operations
