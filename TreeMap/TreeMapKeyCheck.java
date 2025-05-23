@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.*;
 import java.util.Map.Entry;
 
-public class P5 {
+public class TreeMapKeyCheck {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
