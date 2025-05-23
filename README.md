@@ -109,6 +109,10 @@ servlet program->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/6b
 #
 servlet program->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/6c_PrimeCheckServlet/p6c.png)
 
+#
+session1 -> [Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/7a_Session_%20Management/p7a.png)
+
+session2 -> [Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/7a_Session_%20Management/p7b.png)
 
 
 
