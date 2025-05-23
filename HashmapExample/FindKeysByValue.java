@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.*;
 import java.util.Map.Entry;
 
-public class P1 {
+public class FindKeysByValue {
 	public static void main(String[] args) {
 		HashMap< Integer,String> hashMap = new HashMap<>();
 		hashMap.put(1,"Apple");
