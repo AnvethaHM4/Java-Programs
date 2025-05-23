@@ -5,7 +5,7 @@ package lab2;
 import java.util.HashMap;
 import java.util.Map;
 
-public class P4 {
+public class CheckMapEmpty{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
