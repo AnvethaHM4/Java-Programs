@@ -1,6 +1,6 @@
 //1.Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
 import java.util.*;
-public class p1 {
+public class ColorChecker.java {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
