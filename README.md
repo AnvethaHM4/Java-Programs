@@ -106,6 +106,11 @@ Swing->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/5_Swing%20pr
 #
 servlet program->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/6b_CookieServlet/p6b.png)
 
+#
+servlet program->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/6c_PrimeCheckServlet/p6c.png)
+
+
+
 
 
 
