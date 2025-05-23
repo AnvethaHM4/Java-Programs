@@ -3,7 +3,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.*;
-public class p7 {
+public class ReverseLinkedListIterator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
