@@ -84,6 +84,11 @@ stringopertion9->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/3a
 
 stringopertion10->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/3a_String%20operation_Exercises/p3e10.jpeg)
 
+#
+stringbufer->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/3b_StringBuffer%20and%20StringBuilder/3b1.png)
+
+
+
 
 
 
