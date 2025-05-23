@@ -125,6 +125,12 @@ jdbc->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/8a_JDBCCoffee
 #
 jdbc->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/8b_updateCoffee/p8b.png)
 
+#
+JDBCEmployee->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/8c_JDBCEmployee/p8c.png)
+
+JDBCEmployee->[Link](https://github.com/AnvethaHM4/Java-Programs/blob/main/8c_JDBCEmployee/p8c.1.png)
+
+
 
 
 
